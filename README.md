@@ -8,6 +8,8 @@
 ## Proje Hakkında
 Bu proje, öğrenci yurtlarındaki işleyişi kolaylaştırmak, öğrenci ve personel bilgilerini düzenli bir şekilde kayıt altına almak ve takip etmek için geliştirilmiştir. İlişkisel veri tabanı modelleri kullanılarak sistemin yönetimi kolaylaştırılmıştır.
 
+# Varlık-Özellik Tablosu:
+
 | **Varlıklar**           | **Özellikler**                                                                                                      |
 |-------------------------|----------------------------------------------------------------------------------------------------------------------|
 | **Kartlar**             | KartId,OgrenciId                                                                    |
