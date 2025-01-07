@@ -1,12 +1,12 @@
 # Öğrenci Yurt Takip Otomasyonu
 
-## Proje Hakkında
-Bu proje, öğrenci yurtlarındaki işleyişi kolaylaştırmak, öğrenci ve personel bilgilerini düzenli bir şekilde kayıt altına almak ve takip etmek için geliştirilmiştir. İlişkisel veri tabanı modelleri kullanılarak sistemin yönetimi kolaylaştırılmıştır.
-
 ## Proje Ekibi
-- **Efe Kocaefe** (225260305)  
 - **Serhat Yıldırım** (185260013)  
 - **Ahmet Bingöl** (215260087)
+- **Efe Kocaefe** (225260305)
+
+## Proje Hakkında
+Bu proje, öğrenci yurtlarındaki işleyişi kolaylaştırmak, öğrenci ve personel bilgilerini düzenli bir şekilde kayıt altına almak ve takip etmek için geliştirilmiştir. İlişkisel veri tabanı modelleri kullanılarak sistemin yönetimi kolaylaştırılmıştır.
 
 | **Varlıklar**           | **Özellikler**                                                                                                      |
 |-------------------------|----------------------------------------------------------------------------------------------------------------------|
@@ -31,6 +31,7 @@ Bu proje, öğrenci yurtlarındaki işleyişi kolaylaştırmak, öğrenci ve per
 ## E-R Diyagramı
 Aşağıdaki diyagram, proje kapsamında tasarlanan varlıklar ve aralarındaki ilişkileri göstermektedir.
 
-![E-R Diyagramı](link-to-diagram)
+![E-R Diyagramı](link-![WhatsApp Görsel 2025-01-07 saat 21 00 44_9791df60](https://github.com/user-attachments/assets/93a22e63-806b-458c-9f00-a5120c2758fd)
+to-diagram)
 
 
