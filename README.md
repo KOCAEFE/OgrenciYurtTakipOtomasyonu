@@ -30,7 +30,7 @@ Bu proje, öğrenci yurtlarındaki işleyişi kolaylaştırmak, öğrenci ve per
 
 ## E-R Diyagramı
 
-(-![WhatsApp Görsel 2025-01-07 saat 21 00 44_9791df60](https://github.com/user-attachments/assets/93a22e63-806b-458c-9f00-a5120c2758fd)
+![WhatsApp Görsel 2025-01-07 saat 21 00 44_9791df60](https://github.com/user-attachments/assets/93a22e63-806b-458c-9f00-a5120c2758fd)
 
 
 
